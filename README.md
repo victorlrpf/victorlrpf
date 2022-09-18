@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 IEu estou estudando font-end
+- 🌱 Eu estou estudando font-end
 - 📫 Contate-me: victor.ferreira31@fatec.sp;gov.br
 - 😄 Pronomes: ele/dele
 
