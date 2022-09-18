@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there! Eu sou o Victor
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Eu estou estudando font-end
-- 📫 Contate-me: victor.ferreira31@fatec.sp;gov.br
+- 📫 Contate-me: victor.ferreira31@fatec.sp.gov.br
 - 😄 Pronomes: ele/dele
 
 <div align="center">
