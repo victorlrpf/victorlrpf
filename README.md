@@ -1,7 +1,7 @@
 ### Hi there! Eu sou o Victor
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Eu estou estudando front-end
+- 🌱 Eu estou estudando para me tornar um desenvolvedor melhor cada vez
 - 📫 Contate-me: victor.ferreira31@fatec.sp.gov.br
 - 😄 Pronomes: ele/dele
 
