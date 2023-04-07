@@ -2,7 +2,6 @@
 
 - 🔭 Security Information Student - Fatec (5/6)
 - 🌱 Scientific Reaserch (Quantum Computing)
-- 📫
 
 <div align="center">
   <a href="https://github.com/victorlrpf">
