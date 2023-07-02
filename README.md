@@ -1,6 +1,6 @@
 ### Hello There! Eu sou o Victor
 
-- 🔭 Security Information Student - Fatec (5/6)
+- 🔭 Security Information Student - Fatec (6/6)
 - 🌱 Scientific Reaserch (Quantum Computing)
 
 <div align="center">
