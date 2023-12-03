@@ -2,7 +2,9 @@
 
 - 🔭 Security Information Student - Fatec (6/6)
 - 🌱 Scientific Reaserch (Quantum Computing)
+- 📚 Learning about Quantum Computing and Cryptography
 - ☕ Developer Front-End
+- 💬 Ask me about anything!
 <br>
 <br>
 
@@ -27,5 +29,7 @@
   <a href="https://www.instagram.com/_victorlrpf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/victorlrpf_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto: victorlrpf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-ferreira-88728b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victor-ferreira-88728b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href='https://medium.com/@victorlrpf'><img src='https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white'></a>
+
 </div>
