@@ -3,7 +3,7 @@
 - 🔭 Security Information Student - Fatec (6/6)
 - 🌱 Scientific Reaserch (Quantum Computing)
 - 📚 Learning about Quantum Computing and Cryptography
-- ☕ Developer
+- ☕ Developer Front-end
 - 💬 Ask me about anything!
 <br>
 <br>
