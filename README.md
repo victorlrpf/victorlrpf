@@ -21,7 +21,6 @@
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="90" alt="JavaScript">
   <img alt="victor-java" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img src="https://img.icons8.com/nolan/2x/kotlin.png" width="90" alt="kotlin">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="90" alt="php"/>
 </table>
 
 <div> 
