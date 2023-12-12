@@ -20,7 +20,8 @@
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="90" alt="Bootstrap">
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="90" alt="JavaScript">
   <img alt="victor-java" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img src="https://img.icons8.com/nolan/2x/kotlin.png" width="90" alt="kotlin">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="90"/>
 </table>
 
 <div> 
