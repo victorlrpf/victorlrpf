@@ -17,7 +17,6 @@
   <img src="https://img.icons8.com/color/2x/python.png" width="90" alt="Vue.js">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="90" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="90" alt="CSS3">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="90" alt="Bootstrap">
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="90" alt="JavaScript">
   <img alt="victor-java" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90"/>
