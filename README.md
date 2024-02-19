@@ -1,34 +1,24 @@
-# Hello there, I'm Victor, be very welcome
+# 👋 Hi there
 
-- 🔭 Security Information Student - Fatec (6/6)
-- 🌱 Scientific Reaserch (Quantum Computing)
-- 📚 Learning about Quantum Computing and Cryptography
-- ☕ Developer Front-end
-- 💬 Ask me about anything!
-<br>
-<br>
 
-<table>
-  <a href="https://github.com/victorlrpf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorlrpf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlrpf&layout=compact&langs_count=6&theme=tokyonight"/>
-  <br>
-  <br>
-  <img src="https://img.icons8.com/color/2x/python.png" width="90" alt="Vue.js">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="90" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="90" alt="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90" alt="victor-javascript" />
-  <img alt="victor-java" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='victor-typescript' width="90"/>
-          
-</table>
+I am Victor Ferreira, a developer and technology student. I hold a degree in Information Security and work as a Front-end Developer at PersonalSoft. </br>
 
-<div> 
-  <a href="https://youtube.com/@victolr?si=JjvqOpRirM4hig48" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_victorlrpf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/victorlrpf_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto: victorlrpf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-ferreira-88728b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href='https://medium.com/@victorlrpf'><img src='https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white'></a>
+With 2 years of experience in the development market, I am constantly seeking to improve my skills with both front-end and back-end technologies, actively pursuing challenges to enhance my expertise.
 
-</div>
+> “ Your future isn't written. No one's is. You have the power to make your own destiny. ” — Doctor Emmett Brown
+
+# 🚀 Expertise
+
+Initially, my specialization was focused on web development with an emphasis on HTML, CSS, and JavaScript, but currently, I am specializing in backend to better understand the entire application, as I find it very important to have the autonomy to solve certain problems.
+
+My background is in Information Security, where I had a strong focus on vulnerability management and protection against attacks, and I was introduced to Python, which was the language I applied in the scientific article that served as my thesis. It was about quantum computing and cryptography.
+
+In my free time, I enjoy studying, not only about technologies but also other subjects that I'm interested in.
+
+# 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NODE.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![BOotstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
+
+# 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viicctor_ferreira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ferreira-88728b216) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victorlrpf) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@victolr?si=JjvqOpRirM4hig48) 
