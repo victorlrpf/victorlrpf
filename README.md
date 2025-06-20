@@ -1,9 +1,9 @@
 # 👋 Hi there
 
 
-I am Victor Ferreira, a developer and technology student. I hold a degree in Information Security and work as a Front-end Developer at PersonalSoft. </br>
+I am Victor Ferreira, a developer and technology student. I hold a degree in Information Security and work as a Full-Stack Development at BPMdev. </br>
 
-With 2 years of experience in the development market, I am constantly seeking to improve my skills with both front-end and back-end technologies, actively pursuing challenges to enhance my expertise.
+With 3 years of experience in the development market, I am constantly seeking to improve my skills with both front-end and back-end technologies, actively pursuing challenges to enhance my expertise.
 
 > “ Your future isn't written. No one's is. You have the power to make your own destiny. ” — Doctor Emmett Brown
 
