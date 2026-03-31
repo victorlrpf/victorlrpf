@@ -1,24 +1,113 @@
-# 👋 Hi there
+# 👋 Hello, I'm Victor Ferreira
 
+💻 Software Engineer | Full-Stack Developer  
+🚀 Focused on Backend, Scalable Systems & Architecture  
 
-I am Victor Ferreira, a developer and technology student. I hold a degree in Information Security and work as a Full-Stack Development at BPMdev. </br>
+I build solutions that go beyond code — optimizing processes, reducing costs, and delivering real impact.
 
-With 3 years of experience in the development market, I am constantly seeking to improve my skills with both front-end and back-end technologies, actively pursuing challenges to enhance my expertise.
+---
 
-> “ Your future isn't written. No one's is. You have the power to make your own destiny. ” — Doctor Emmett Brown
+## 🧠 About Me
 
-# 🚀 Expertise
+I’m a Software Engineer with a background in Information Security and a strong focus on backend development.
 
-Initially, my specialization was focused on web development with an emphasis on HTML, CSS, and JavaScript, but currently, I am specializing in backend to better understand the entire application, as I find it very important to have the autonomy to solve certain problems.
+Currently working as a Full-Stack Developer, I design and develop applications with an emphasis on:
 
-My background is in Information Security, where I had a strong focus on vulnerability management and protection against attacks, and I was introduced to Python, which was the language I applied in the scientific article that served as my thesis. It was about quantum computing and cryptography.
+- ⚙️ Performance & scalability  
+- 🔐 Security & reliability  
+- 🏗️ Clean architecture & maintainability  
 
-In my free time, I enjoy studying, not only about technologies but also other subjects that I'm interested in.
+I also have experience in **scientific research**, where I worked with **quantum cryptography using Python and Qiskit**, expanding my analytical and problem-solving skills.
 
-# 💻 Tech Stack
+> “Your future isn't written. No one's is. You have the power to make your own destiny.”  
+> — Doctor Emmett Brown
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NODE.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+---
 
-# 🌐 Socials:
+## 🚀 What I Deliver
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viicctor_ferreira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ferreira-88728b216) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victorlrpf) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@victolr?si=JjvqOpRirM4hig48) 
+✔️ Reduced internal process time from **7 days to 3 days** through system optimization  
+✔️ Built a **mental health tracking platform** for organizational compliance  
+✔️ Developed a **biometric validation system** improving operational accuracy  
+✔️ Created full-stack applications integrating **mobile + API + database**
+
+---
+
+## 🧩 Featured Projects
+
+### 📱 Donation App (React Native + C# API)
+A platform to connect donors with collection points using geolocation.
+
+- 🗺️ Interactive map with donation points  
+- ⭐ Favorites system  
+- 🔗 Integration with Supabase (PostgreSQL)  
+- ⚙️ REST API with .NET  
+
+---
+
+### 📦 Inventory Management System (React + Python API)
+A complete stock control system with dashboard and real-time updates.
+
+- 📊 Dashboard with metrics and insights  
+- 🔄 Entry/Exit stock tracking  
+- 🔐 Session-based authentication  
+- ☁️ MongoDB Atlas integration  
+
+---
+
+### 💰 Finance Microservices API (.NET)
+A digital wallet simulation using microservices architecture.
+
+- 💸 Transactions & balance management  
+- 📄 PDF report generation  
+- 🔄 Currency exchange service  
+- 🔐 JWT authentication & rate limiting  
+
+---
+
+### 🧠 Habit Tracker API (Node.js + TypeScript)
+API focused on habit tracking and behavioral analytics.
+
+- 🔁 Streak tracking  
+- 📊 Progress reports  
+- 🔐 Secure authentication  
+- ⚡ Fastify-based architecture  
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Backend
+C#, .NET, Node.js, Python, Java  
+
+### 🎨 Frontend
+React, Vue.js, HTML, CSS, Tailwind  
+
+### 📱 Mobile
+React Native  
+
+### 🗄️ Databases
+PostgreSQL, MongoDB, MySQL, SQL Server  
+
+### ☁️ Cloud & DevOps
+AWS, Google Cloud, Docker  
+
+### 🧠 Architecture & Concepts
+REST, MVC, Microservices, BFF, GraphQL  
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/victor-ferreira-88728b216  
+- 💻 GitHub: https://github.com/victorlrpf  
+- 📧 Email: victorlrpf@gmail.com  
+
+---
+
+## ⚡ Mindset
+
+I don’t just code features.  
+I build systems that solve problems.
+
+Always learning. Always building. 🚀
